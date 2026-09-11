@@ -1,2 +1,2 @@
-# predict_medal_cost
-predict medal cost
+# predict_medical_cost
+predict medical cost
